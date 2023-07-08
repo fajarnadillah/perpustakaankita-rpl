@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Labels
 
 .label-variant(@color) {
@@ -10,3 +11,17 @@
     }
   }
 }
+=======
+// Labels
+
+.label-variant(@color) {
+  background-color: @color;
+
+  &[href] {
+    &:hover,
+    &:focus {
+      background-color: darken(@color, 10%);
+    }
+  }
+}
+>>>>>>> b25a00fcb1272ed18538d57426506e9359084f17

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Deskripsi Aplikasi
 Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
 ## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
@@ -34,3 +35,29 @@ Password : 123
 My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
 
 Gunakan Aplikasi dengan bijak, dan selamat belajar
+=======
+## Deskripsi Aplikasi
+Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
+
+### sumber:
+
+
+##  Framework
+* Codeigniter 3.1.11
+* Template Admin LTE  Versi 2.4
+
+## Penggunaan Login Akses
+
+<b>Petugas Perpus : </b>
+<br/>
+Username : admin
+<br/>
+Password : admin
+
+<b>Anggota Perpus :</b>
+<br/>
+Username : fajar
+<br/>
+Password : 123
+
+>>>>>>> b25a00fcb1272ed18538d57426506e9359084f17

@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 source 'https://rubygems.org'
 
 group :development, :test do
   gem 'jekyll', '~> 3.1.2'
   gem 'jekyll-sitemap', '~> 0.11.0'
 end
+=======
+source 'https://rubygems.org'
+
+group :development, :test do
+  gem 'jekyll', '~> 3.1.2'
+  gem 'jekyll-sitemap', '~> 0.11.0'
+end
+>>>>>>> b25a00fcb1272ed18538d57426506e9359084f17
